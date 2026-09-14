@@ -9,4 +9,6 @@
 
 ## 2주차: Korean COVID-19 New Cases by Region
 
-[표 바로가기](Korean%20COVID-19%20New%20Cases%20by%20Region.md)
+[결과 표 바로가기](Korean%20COVID-19%20New%20Cases%20by%20Region.md)
+
+## 3주차: 
