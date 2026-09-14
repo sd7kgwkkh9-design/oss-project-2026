@@ -6,3 +6,6 @@
 - **이름**: 김강제
 - **학번**: 23101692
 - **전공**: 컴퓨터공학과, 전기정보공학과(double major)
+
+## 2주차: Korean COVID-19 New Cases by Region
+
