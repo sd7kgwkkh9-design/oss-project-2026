@@ -13,20 +13,20 @@
 
 ## 3주차: Python: From Beginner to Intermediate
 
-1. Data Types
+1. **Data Types**
   - Numbers
   - String
   - Compound data
-2. Operators
+2. **Operators**
   - Arithmetic
   - Logical
   - Ternary
   - Lambda expression
-  - sorting
+  - Sorting
   - Identity
   - Membership
-3. Flow Control
-4. Function Definition
-5. Object-oriented Programming
+3. **Flow Control**
+4. **Function Definition**
+5. **Object-oriented Programming**
 
 ## 4주차
