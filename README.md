@@ -21,6 +21,6 @@
 
 ### 3주차 과제: class_score_analysis
 
-[결과 표 바로가기]
+[결과 표 바로가기](class_score_analysis.md)
 
 ## 4주차
