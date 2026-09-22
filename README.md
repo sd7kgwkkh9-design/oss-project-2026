@@ -14,19 +14,13 @@
 ## 3주차: Python: From Beginner to Intermediate
 
 1. **Data Types**
-  - Numbers
-  - String
-  - Compound data
 2. **Operators**
-  - Arithmetic
-  - Logical
-  - Ternary
-  - Lambda expression
-  - Sorting
-  - Identity
-  - Membership
 3. **Flow Control**
 4. **Function Definition**
 5. **Object-oriented Programming**
+
+### 3주차 과제: class_score_analysis
+
+[결과 표 바로가기]
 
 ## 4주차
